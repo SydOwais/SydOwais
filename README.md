@@ -46,7 +46,7 @@ You can follow me on YouTube — come check it out:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SydOwais&show_icons=true&theme=dark&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSydOwais&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SydOwais&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 <p align="center"><i>"Security is not a product, but a process." — Bruce Schneier</i></p>
