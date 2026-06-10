@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@owaixyt?si=UW7ZEgqqTT1Z7UiZ">
+  <a href="discordapp.com/user/543735006825283585">
     <img src="https://img.shields.io/badge/DISCORD-8A2BE2?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
