@@ -1,6 +1,6 @@
 <h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pliant&pause=1000&color=CAF718&center=true&width=435&lines=Hey++!+it's+Owais;I+am+a+Cybersecurity+Analyst)](https://git.io/typing-svg)
-
+</h1>
 <p align="center">
   <b>Computer Science Undergraduate · Cybersecurity Enthusiast</b><br/>
   St. Joseph Degree College · 1st Year
