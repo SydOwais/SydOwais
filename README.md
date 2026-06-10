@@ -1,14 +1,13 @@
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pliant&pause=1000&color=CAF718&center=true&width=435&lines=Hey++!+it's+Owais;I+am+a+Cybersecurity+Analyst)](https://git.io/typing-svg)
-</h1>
-<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pliant&size=40&duration=3000&pause=1000&color=B2F72A&center=true&vCenter=true&width=1000&lines=Hey++!+it's+Owais;I+am+a+Ethical+Hacker" alt="Typing SVG" /></a>
+
+  <p align="center">
   <b>Computer Science Undergraduate · Cybersecurity Enthusiast</b><br/>
   St. Joseph Degree College · 1st Year
 </p>
 
 <p align="center">
   <a href="https://youtube.com/@owaixyt?si=UW7ZEgqqTT1Z7UiZ">
-    <img src="https://img.shields.io/badge/YouTube-@owaixyt-FF0000?style=flat&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-8A2BE2?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
 
